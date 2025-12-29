@@ -84,7 +84,14 @@ Charts: Bar charts, donut charts, tables
 
 📷 Dashboard Preview:
 
-https://github.com/gow504/ipl-2025-data-analysis/blob/main/IPL%202025%20DASHBOARD.png>
+<a href="https://github.com/gow504/ipl-2025-data-analysis/blob/main/IPL%202025%20DASHBOARD.png">dashboard</a>
+
+
+
+DATASET:
+
+-<a href="https://github.com/gow504/ipl-2025-data-analysis/blob/main/IPL2025Batters.xlsx">download dastaset here</a>
+
 
 
 
