@@ -85,6 +85,8 @@ Charts: Bar charts, donut charts, tables
 📷 Dashboard Preview:
 
 <a href="https://github.com/gow504/ipl-2025-data-analysis/blob/main/IPL%202025%20DASHBOARD.png">dashboard</a>
+<img width="1533" height="779" alt="IPL 2025 DASHBOARD" src="https://github.com/user-attachments/assets/1727c725-ca49-4094-97a3-eff0702c43d2" />
+
 
 
 
